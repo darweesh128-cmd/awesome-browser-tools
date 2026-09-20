@@ -146,3 +146,5 @@ To add a tool:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is [MIT Licensed](LICENSE). Copyright 2026 [JSVV SOLS LLC](https://jsvvsols.com).
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit) — Free browser tools for freelancers (invoice, proposal, timesheet, deposit calculator) — no signup
